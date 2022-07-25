@@ -1,16 +1,33 @@
-### Hi there 👋
+![paintdrip's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paintdrip&hide_border=true&theme=redical)
 
-<!--
-**paintdrip/paintdrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
+![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
+![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
+![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <br></br>
+
+  ![paintdrip's github
+  stats](https://github-readme-stats.vercel.app/api?username=paintdrip&show_icons=true&theme=radical&include_all_commits=true)
+  
+  <br></br>
+
+  ![paintdrip's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paintdrip&theme=radical)
+  
+  <br></br>
+  
+  ![paintdrip's github streak](https://github-readme-streak-stats.herokuapp.com/?user=paintdrip&theme=radical)
+  
+  <br></br>
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=paintdrip)
+  
+  <br></br>
+  
+  </div>
