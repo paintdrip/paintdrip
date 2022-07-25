@@ -14,9 +14,9 @@
   ![paintdrip's github
   stats](https://github-readme-stats.vercel.app/api?username=paintdrip&show_icons=true&theme=radical&include_all_commits=true)
   
-  ![paintdrip's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paintdrip&theme=radical)
-  
   ![paintdrip's github streak](https://github-readme-streak-stats.herokuapp.com/?user=paintdrip&theme=radical)
+  
+  ![paintdrip's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paintdrip&theme=radical)
   
   ![](https://visitor-badge.glitch.me/badge?page_id=paintdrip)  
   </div>
