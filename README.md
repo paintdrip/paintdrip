@@ -9,7 +9,7 @@
 ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
-<div align="center">
+<div>
 
   ![paintdrip's github
   stats](https://github-readme-stats.vercel.app/api?username=paintdrip&show_icons=true&theme=radical&include_all_commits=true)
