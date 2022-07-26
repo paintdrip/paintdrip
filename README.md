@@ -1,6 +1,3 @@
-![paintdrip's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paintdrip&hide_border=true&theme=redical)
-
-
 ### Languages and tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
