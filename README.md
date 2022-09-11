@@ -6,15 +6,12 @@
 ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
 ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+  
+<p align = "flex-start">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paintdrip&theme=dracula">
+</p>
 
-<div>
-
-  ![paintdrip's github
-  stats](https://github-readme-stats.vercel.app/api?username=paintdrip&show_icons=true&theme=radical&include_all_commits=true)
-  
-  ![paintdrip's github streak](https://github-readme-streak-stats.herokuapp.com/?user=paintdrip&theme=radical)
-  
-  ![paintdrip's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paintdrip&theme=radical)
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=paintdrip)  
-  </div>
+<p align = "flex-start">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paintdrip&theme=dracula" width = 345>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paintdrip&theme=dracula" width = 345>
+</p>
