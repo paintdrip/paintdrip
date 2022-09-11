@@ -8,10 +8,10 @@
 ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
   
 <p align = "flex-start">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paintdrip&theme=dracula">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paintdrip&theme=2077">
 </p>
 
 <p align = "flex-start">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paintdrip&theme=dracula" width = 345>
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paintdrip&theme=dracula" width = 345>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paintdrip&theme=2077" width = 345>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paintdrip&theme=2077" width = 345>
 </p>
