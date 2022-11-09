@@ -17,3 +17,5 @@
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paintdrip&theme=github_dark" width = 345>
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paintdrip&theme=github_dark" width = 345>
 </p>
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=paintdrip)
