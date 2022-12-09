@@ -14,9 +14,14 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align = "flex-start">
+<!-- <p align = "flex-start">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paintdrip&theme=github_dark" width = 345>
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paintdrip&theme=github_dark" width = 345>
 </p>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=paintdrip)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=paintdrip) -->
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paintdrip&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" align="right" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paintdrip&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="left" />
+</a>
