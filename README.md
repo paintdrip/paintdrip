@@ -2,7 +2,8 @@
 
 ### Info:
 
-  Work as a frontend engineer at the company <a href='https://kvokka.com/'>kvokka</a>.
+  Work as a frontend engineer at the company <a href='https://kvokka.com/'>kvokka</a>.<br>
+  I also work on open source projects in <a href='https://gitlab.com/paintdrip1'>my gitlab</a>
 
 ---
 
